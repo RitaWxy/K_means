@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../A_东南/A_学硕毕设/AI_edu/.idea/AI_edu.iml" filepath="$PROJECT_DIR$/../../A_东南/A_学硕毕设/AI_edu/.idea/AI_edu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lecture-02.iml" filepath="$PROJECT_DIR$/.idea/lecture-02.iml" />
     </modules>
   </component>
